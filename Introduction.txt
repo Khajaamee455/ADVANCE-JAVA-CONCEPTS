@@ -1,0 +1,8 @@
+**********FILE HANDLING IN JAVA*******************
+
+File handling in java involves performing various operations on filesuch as creating , reading , writing , deleting files.
+
+java provides java.io packages and java.nio.file packages to handle the file operations...
+
+
+Let's see how we can create , read , write and delete the files using java........!
