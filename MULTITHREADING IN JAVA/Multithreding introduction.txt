@@ -1,0 +1,25 @@
+*****************Multithreading in java******************
+
+Multithreading in java is a powerful feature that allows concurent execution of two or more
+ threads enableing better utilization of CPU resorces...
+
+ ** Multithreading is nothing but exicuting multiple threads simultiniously without depending on 
+ other threads is called Multithreading..
+
+
+ * We can create a thread in two ways.......
+
+ 1) By exdending the Thread class 
+ 2) By implimenting Runnable interface 
+
+ * Note : Best way to create a thread is by implimenting a Runnable interface ..
+
+
+ Let's see how can we create a thread ....
+
+ * Note every java programme contains one thread is called main thread (that is main method)
+
+ for main method we can also called as main thread .....
+
+ ** we cannot pridict the output sequence of the threads ...
+ 

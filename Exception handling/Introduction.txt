@@ -1,0 +1,19 @@
+*******************Exception handling *********************
+
+Exception is a unwanted / abnormal situation accures at runtime .
+
+Exception handling is nothing but we have alternative source to handle those 
+ exceptions.. is called exceptions handling
+
+ using , try catch , throw , throws , finaly blocks using these alternative sources
+  we can handle those exceptions and prevent the abnormal behaviour of the program 
+  and maintain the programme flow ...
+
+  keyword in Exception handling...
+  1) try 
+  2) catch 
+  3) throw
+  4) throws
+  5) finally
+
+  Lets see examples you get better understand what is means....
